@@ -1,4 +1,5 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*xYowXd50czavosQGQ5Ndng.png)
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*xYowXd50czavosQGQ5Ndng.png" alt="MasterHead" width="500" height="300">
+
 <h1 align="center">Hi 👋, I'm Pelin AYBAR.</h1>
 <h3 align="center">A passionate IOS developer from Türkiye.</h3>
 
